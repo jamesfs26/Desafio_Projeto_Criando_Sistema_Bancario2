@@ -3,7 +3,9 @@
 
 Na segunda etapa do desafio de projeto do Curso Python AI Backend Developer (DIO) em parceria com a Vivo, implementamos nosso sistema bancário com novos recursos aprendidos no módulo de estrutura de dados em Python. O conhecimento de nível intermediário passado pelo professor Guilherme Carvalho (Gui) neste módulo me ensinou sobre listas, tuplas, conjuntos, dicionários e funções. Com esses conhecimentos, reestruturei o código que antes era feito em sua maioria por variáveis, estruturas condicionais e de repetição.
 Descrição das Principais Mudanças, Melhorias e Funcionalidades
-Etapa 1
+
+# Etapa 1
+
 menu = '''
 
 [d] depositar
@@ -72,7 +74,7 @@ while True:
     else:
         print("Operação inválida, por favor, selecione novamente a opção desejada.")
 
-# Na primeira etapa, o código era mais simples e focava nas operações básicas de um sistema bancário. Aqui está um resumo das principais características:
+### Na primeira etapa, o código era mais simples e focava nas operações básicas de um sistema bancário. Aqui está um resumo das principais características:
 
     * Menu Simples: O menu oferecia opções de depósito, saque, extrato e sair.
     * Gerenciamento de Saldo: Utilização de variáveis simples (saldo, limite, extrato, numero_saques) para armazenar informações.
