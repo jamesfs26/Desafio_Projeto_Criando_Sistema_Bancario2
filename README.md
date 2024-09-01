@@ -1,4 +1,4 @@
-# 2ª Etapa do Desafio de Projeto do Curso Python AI Backend Developer (DIO) em parceria com a Vivo
+# 3ª Etapa do Desafio de Projeto do Curso Python AI Backend Developer (DIO) em parceria com a Vivo
 
 
 Na segunda etapa do desafio de projeto do Curso Python AI Backend Developer (DIO) em parceria com a Vivo, implementamos nosso sistema bancário com novos recursos aprendidos no módulo de estrutura de dados em Python. O conhecimento de nível intermediário passado pelo professor Guilherme Carvalho (Gui) neste módulo me ensinou sobre listas, tuplas, conjuntos, dicionários e funções. Com esses conhecimentos, reestruturei o código que antes era feito em sua maioria por variáveis, estruturas condicionais e de repetição.
@@ -109,3 +109,5 @@ Aqui estão as melhorias e funcionalidades adicionadas:
         Listagem de Contas: Possibilidade de listar todas as contas existentes.
         Facilidade de Adição de Novos Clientes: Uso de dicionários para adicionar novos clientes de forma simples e eficaz.
         Aprimoramento da Interação com o Usuário: Exibição detalhada das transações e saldo atual no extrato.
+
+        ### Explicação das modificações será atualizada em breve...
